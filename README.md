@@ -9,4 +9,4 @@ Via composer
 
 2. En tu terminal correr composer dump-autoload
 
-3. Correr php artisan migrate --seed para crear las tablas (En caso de que este comando falle, se encuentra la base de datos dentro de la carpeta db en el repositorio)
+3. Importar archivo SQL que se encuentra en la carpeta db
